@@ -11,5 +11,5 @@ An AR effect for Instagram and Facebook created on Spark AR.
 3. Gives out a random rating for chess.com
 
 ## How it Looks:
-
+![Demo Image](https://github.com/n-ay/AR-effect-ChessWorld/blob/main/demo-ar-effect-chessworld.png)
 
